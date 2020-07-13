@@ -3,4 +3,4 @@ python :
   - "3.6"
 
 script :
-  - python manage.py test && flake8
+  - "python manage.py test && flake8"
